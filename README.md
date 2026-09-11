@@ -24,41 +24,22 @@ building practical projects.
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-### 👨‍💻 Programming Languages
+### Languages
+Python • C • C++ • Java • SQL
 
-<p><img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript" /></p>
+### Data Science & AI
+NumPy • Pandas • Matplotlib • Seaborn • TensorFlow
 
-### 🌐 Web Development
+### Development
+HTML • CSS • JavaScript • Flask
 
-<p><img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,flask" /></p>
-
-### 🗄️ Database
-
-<p><img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" /></p>
-
-### 🤖 AI / Data Science
-
-<p><img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" /></p>
-
-### 🛠️ Tools & Technologies
-
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" /></p>
-
-### 📊 Data Science & Machine Learning
-
-<p><img src="https://skillicons.dev/icons?i=python" /></p>
-
-**Libraries & Tools**
-
-`NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn`
-
-**Currently Exploring**
-
-`Machine Learning` • `Deep Learning` • `Data Analysis` • `Docker`
-
----
+### Tools
+Git • GitHub • VS Code • Docker • PostgreSQL
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,flask,mysql,postgresql,git,github,vscode,docker" />
+</p>
 
 # 📊 GitHub Statistics
 
